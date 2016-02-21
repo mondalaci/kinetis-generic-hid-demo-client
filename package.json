@@ -1,0 +1,32 @@
+{
+  "name": "kinetis-generic-hid-demo-client",
+  "version": "1.0.0",
+  "description": "Minimalistic JavaScript client for the generic HID demo of KSDK",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondalaci/kinetis-generic-hid-demo-client.git"
+  },
+  "keywords": [
+    "freescale",
+    "nxp",
+    "kinetis",
+    "generic",
+    "raw",
+    "hid",
+    "demo",
+    "client"
+  ],
+  "author": "Laszlo Monda",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mondalaci/kinetis-generic-hid-demo-client/issues"
+  },
+  "homepage": "https://github.com/mondalaci/kinetis-generic-hid-demo-client#readme",
+  "dependencies": {
+    "usb": "^1.1.1"
+  }
+}
